@@ -1,0 +1,253 @@
+{
+    "a5f74b19-9e45-40e0-b45d-47ff91b7a6c2": {
+        "parent_win_hash": "8517649968055551809",
+        "unique_keys": "hcaptcha,0,onExpire,grecaptcha,1,onSuccess",
+        "unique_keys2":"onExpire,1,hcaptcha,grecaptcha,onSuccess,0",
+        "theme":1796889847,
+        "pel": "<div id=\"hcaptcha-demo\" class=\"h-captcha\" data-sitekey=\"a5f74b19-9e45-40e0-b45d-47ff91b7a6c2\" data-callback=\"onSuccess\" data-expired-callback=\"onExpire\"></div>",
+        "invisible" : false,
+        "exec": "m",
+        "common_keys_hash": 1028655694,
+        "common_keys_tail":  "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,fetchLater,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,oncommand,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+    },
+    "default": {
+        "parent_win_hash": "11663766375598689460",
+        "unique_keys": "0,onSuccess,onExpire,hcaptcha,grecaptcha,1",
+        "unique_keys2":"0,hcaptcha,onSuccess,grecaptcha,onExpire,1",
+        "theme":1796889847,
+        "pel": "<div></div>",
+        "invisible" : false,
+        "exec": "m",
+        "common_keys_hash": 1028655694,
+        "common_keys_tail":  "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,fetchLater,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,oncommand,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+    },
+    "019f1553-3845-481c-a6f5-5a60ccf6d830": {
+        "https://authenticate.riotgames.com/*": {
+            "parent_win_hash":"18423577080617246390",
+            "unique_keys": "Osano,2,0,__SENTRY__,__uspapi,hcaptcha,hcaptchaOnLoad,DD_RUM,cdn,clearImmediate,webpackChunk_osano_cmp_consent_manager,e,webpackJsonp,grecaptcha,dataLayer,setImmediate,1,m,google_tag_manager,google_tag_data,litHtmlVersions",
+            "unique_keys2":"cdn,Osano,litHtmlVersions,webpackJsonp,hcaptcha,2,clearImmediate,__SENTRY__,setImmediate,google_tag_data,__uspapi,1,dataLayer,m,DD_RUM,e,google_tag_manager,webpackChunk_osano_cmp_consent_manager,grecaptcha,0,hcaptchaOnLoad",
+            "pel": "<div></div>",
+            "theme": 1796889847,
+            "invisible": true,
+            "exec": "api",
+            "common_keys_hash": 2915477231,
+            "common_keys_tail": "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        }
+    },
+    "a9b5fb07-92ff-493f-86fe-352a2803b3df": {
+        "https://discord.com/channels/@me*": {
+            "parent_win_hash": "14528729968590631134",
+            "unique_keys": "__localeData__,regeneratorRuntime,2,__isReactDndBackendSetUp,0,__BILLING_STANDALONE__,webpackChunkdiscord_app,platform,__SENTRY__,hcaptcha,hcaptchaOnLoad,__timingFunction,DiscordErrors,clearImmediate,__OVERLAY__,grecaptcha,DiscordSentry,GLOBAL_ENV,setImmediate,1,IntlPolyfill,_ws,__DISCORD_WINDOW_ID",
+            "unique_keys2": "GLOBAL_ENV,0,__OVERLAY__,hcaptcha,__localeData__,IntlPolyfill,__timingFunction,grecaptcha,DiscordSentry,1,hcaptchaOnLoad,clearImmediate,setImmediate,DiscordErrors,__BILLING_STANDALONE__,__DISCORD_WINDOW_ID,webpackChunkdiscord_app,__SECRET_EMOTION__,regeneratorRuntime,platform,__SENTRY__",
+            "theme":1796889847,
+            "pel": "<div></div>",
+            "invisible" : true,
+            "exec": "api",
+            "common_keys_hash": 1028655694,
+            "common_keys_tail": "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,fetchLater,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,oncommand,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        },
+        "https://discord.com/" : {
+            "parent_win_hash": "6791656551472249815",
+            "unique_keys": "pageUsesReact,hcaptcha,IntlPolyfill,0,clearImmediate,YTConfig,scriptUrl,onYTReady,objectFitPolyfill,onYouTubeIframeAPIReady,yt_embedsEnableAutoplayAndVisibilitySignals,grecaptcha,YT,WebFont,hCaptchaOnLoad,platform,yt_embedsEnableIframeApiSendFullEmbedUrl,1,2,webpackChunkdiscord_marketing,GLOBAL_ENV,Localize,jQuery,__skippedLocalizeInit,ttPolicy,webpackChunk,setImmediate,Webflow,$,tram,__SENTRY__,_",
+            "unique_keys2":"WebFont,__skippedLocalizeInit,jQuery,hcaptcha,2,platform,scriptUrl,GLOBAL_ENV,yt_embedsEnableIframeApiSendFullEmbedUrl,clearImmediate,webpackChunk,tram,__SENTRY__,Webflow,webpackChunkdiscord_marketing,setImmediate,onYouTubeIframeAPIReady,ttPolicy,$,YT,1,objectFitPolyfill,hCaptchaOnLoad,yt_embedsEnableAutoplayAndVisibilitySignals,pageUsesReact,YTConfig,Localize,onYTReady,grecaptcha,0,IntlPolyfill,_",
+            "theme":1796889847,
+            "pel": "<div></div>",
+            "invisible" : true,
+            "exec": "api",
+            "common_keys_hash": 1028655694,
+            "common_keys_tail": "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,fetchLater,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,oncommand,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        },
+        "https://discord.com/register": {
+            "parent_win_hash": "47469218284737993",
+            "unique_keys": "regeneratorRuntime,1,GLOBAL_ENV,__BILLING_STANDALONE__,webpackChunkdiscord_app,__localeData__,hcaptcha,0,__OVERLAY__,DiscordErrors,clearImmediate,DiscordSentry,__timingFunction,hcaptchaOnLoad,IntlPolyfill,__SENTRY__,__DISCORD_WINDOW_ID,setImmediate,__SECRET_EMOTION__,2,platform",
+            "unique_keys2":"__localeData__,clearImmediate,platform,DiscordErrors,__BILLING_STANDALONE__,__SENTRY__,hcaptchaOnLoad,webpackChunkdiscord_app,__timingFunction,2,1,__DISCORD_WINDOW_ID,hcaptcha,regeneratorRuntime,setImmediate,DiscordSentry,IntlPolyfill,__OVERLAY__,GLOBAL_ENV,0,__SECRET_EMOTION__",
+            "theme":1796889847,
+            "pel": "<div></div>",
+            "invisible" : true,
+            "exec": "api",
+            "common_keys_hash": 1028655694,
+            "common_keys_tail": "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,fetchLater,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,oncommand,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        },
+        "https://discord.com/invite*": {
+            "parent_win_hash": "14521712457753931142",
+            "unique_keys": "OGVMediaError,regeneratorRuntime,1,GLOBAL_ENV,__BILLING_STANDALONE__,OGVCompat,webpackChunkdiscord_app,__localeData__,OGVVersion,hcaptcha,0,__OVERLAY__,DiscordErrors,clearImmediate,DiscordSentry,OGVPlayer,__timingFunction,OGVTimeRanges,hcaptchaOnLoad,IntlPolyfill,OGVLoader,__SENTRY__,OGVMediaType,__DISCORD_WINDOW_ID,setImmediate,__SECRET_EMOTION__,2,platform",
+            "unique_keys2":"__localeData__,clearImmediate,platform,DiscordErrors,OGVLoader,__BILLING_STANDALONE__,__SENTRY__,hcaptchaOnLoad,OGVMediaError,webpackChunkdiscord_app,OGVCompat,OGVPlayer,__timingFunction,2,1,__DISCORD_WINDOW_ID,OGVTimeRanges,hcaptcha,regeneratorRuntime,setImmediate,OGVMediaType,DiscordSentry,IntlPolyfill,__OVERLAY__,GLOBAL_ENV,0,__SECRET_EMOTION__,OGVVersion",
+            "theme":1796889847,
+            "pel": "<div></div>",
+            "invisible" : true,
+            "exec": "api",
+            "common_keys_hash": 1028655694,
+            "common_keys_tail": "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,fetchLater,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,oncommand,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        }
+    },
+    "e18a349a-46c2-46a0-87a8-74be79345c92": {
+        "https://store.steampowered.com/join*": {
+            "parent_win_hash":"random",
+            "unique_keys": "ChangeEmail,DynamicLink_PlayYouTubeVideoInline,GetValueLocalStorage,g_oSuggestParams,UpdateStoreBannerForAdditionalCartDiscount,HandleOverlayWindowPinnedView,UseMobileScreenMode,DynamicLink_ShowSketchfabModelInline,g_rgQueuedGamepadCommands,DebugLogDisableAll,UpdateReactNativeClientHeaderData,ToggleEmailVerificationHelp,v_trim,Selector,_GetStorageFromCookie,AddToWishlistButton,OnDynamicStorePageException,PrevSpotlight,g_strLastPassword,SetValueLocalStorage,Responsive_UpdateResponsivePrefs,UpdateFormattedNumber,ShowEditablePrompt,SetupTooltips,InitHorizontalAutoSliders,DebugLogEnableBacktrace,TabCompletionClosure,g_HoverState,GPNavFocusChild,addBundleToCart,GoToExistingAccount,PositionMiniprofileHover,$H,setTimezoneCookies,SetGPFocusRestoreTimeout,MINIPROFILE_DELAY_BEFORE_AJAX,hcaptcha,IsValidEmailAddress,InitEmoticonHovers,ViewTitlesWithDescriptors,UseSmallScreenMode,Steam,SearchTimeout,RegisterSteamOnWebPanelShownHandler,_RegisterAJAXHoverHideFunction,ShowConfirmDialog,AddFreeBundle,InstrumentedLinkOnClick,RegisterFlyout,InitializeGPFocusRestoreTimeout,RateAnnouncement,V_ParseJSON,CAutoComplete,AgeGateClear,GPShowVirtualKeyboard,UnregisterPopupDismissal,g_wapit,0,RegisterPopupDismissal,StoreItemCache,ExtractSNR,SetPasswordTag,OnCountryChange,PollOnUserActionAfterInterval,ShowPromptDialogWithProps,ReenterPasswordChange,g_fnActivateLocalMenu,V_EscapeRegExp,InitReactNativeSetHeaderData,BInsideIFrame,ShowBlockingWaitDialog,GetHoverState,MINIPROFILE_DELAY_BEFORE_SHOW,addAllDlcToCart,ShowBannedDynamicLink,Responsive_ToggleLocalMenu,StartCreationSessionParentalConsent,g_bPasswordAvailable,SearchSuggestSetFixStyles,VScrollbar,GetResponsiveHeaderFixedOffsetAdjustment,HideRecommendation,V_IsJSON,V_GetDecodedCookie,ShowSupportAlerts,MobileApp_UpdateSearchSuggestions,RefreshCaptcha,DSelectOnTriggerClick,WebStorage,g_sessionID,CScrollOffsetWatcher,GetNavCookie,CLSTAMP,ReplaceDynamicLink,DebugLogEnableAll,g_bAccountNameAvailable,g_strRedirectURL,updateQtyCart,RunWhenGamepadNavReady,g_wapitRefresh,Refresh,FlushStyleChanges",
+            "unique_keys2":"DSelectOnBlur,GetAvatarURL,$H,Responsive_RequestDesktopView,CompleteCreateAccount,CSlider,TabSelectStealth,ScrollStaticSmallCaps,InstrumentLinks,HandleKeyDown,g_wapit,RateAnnouncement,CreateAccount,GDynamicStorePage,DynamicLink_PlayVimeoVideoInline,ChangeLanguage,HideMenuFast,InitTabDefaults,LockFamilyView,Responsive_RequestMobileView,ShowBannedDynamicLink,CIndexedInputSuggest,Responsive_BuildChangeLanguageOption,TYPEAHEAD_TIMEOUT_MS,ParentalConsentRequested,g_embeddedAppID,$A,g_oReactNativeSetHeader,_Responsive_ReparentItems,g_timeLastCharEvent,GetElemSNR,ShowGamePurchaseDropdown,SetReactNativeHeaderCartItemCount,CheckParentalConsent,g_sessionID,RunWhenGamepadNavReady,RemoveFromWishlist,MobileApp_UpdateSearchSuggestions,iAjaxCalls,k_EScrollbarDirectionHorizontal,hcaptcha,Control,Field,TabCompletionClosure,ObjectRange,setTimezoneCookies,DELAY_BETWEEN_NOTIFICATION_COUNT_POLLS_MS,Responsive_InitMenuSwipes,SearchSuggestSetFixStyles,g_iActiveSpotlight,Abstract,RollTab,UpdateFormattedNumber,DisableTooltipMutationObserver,PromptContinueToWebChat,TabUpdateCounts,Responsive_ToggleLocalMenu,HideFlyoutMenu,DisplayPasswordStrength,PostToURLWithSession,g_nMobileSearchTermTimer,$$,OnDynamicStorePageException,GetResponsiveHeaderFixedOffsetAdjustment,g_strLastPassword,PositionMiniprofileHover,g_wapitRefresh,BindAJAXHovers,ShowWithFade,g_hcaptchaInstance,UpdateCaptcha,$,RegisterSteamOnWebPanelShownHandler,v_numberformat,DSelectNoop,ShowPromptDialog,UpdateStoreBannerForAdditionalCartDiscount,CreateFadingCarousel,g_recaptchaInstance,Prototype,DynamicLink_ShowSketchfabModelInline,CAutoComplete,AlignMenu,UpdateSpotlightControls,g_usabilityTracker,DebugLogNames,ShowSuggestionsAsNecessary,1,AnimateSpotlightTransition,BuildCreatorCapsuleToAppend,GetValueLocalStorage,TabScrollFinishClosure,_BuildDialogButton,StartCreationSession,UpdateStoreBannerForPromotionalDiscount,EnableNotificationCountPolling,HideShoppingCart,V_ToJSON,RegisterSteamOnWebPanelHiddenHandler,ReallyCreateAccount,Toggle,UpdateNotificationCounts,V_IsJSON,expandTXItem",
+            "pel": "<div id=\"recaptcha_render_10802030172960201\"></div>",
+            "theme": 461159931,
+            "invisible": false,
+            "exec": "m",
+            "common_keys_hash": 2915477231,
+            "common_keys_tail":  "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        }
+    },
+    "26f78252-be3f-497c-902a-f7df081bed66": {
+        "https://www.papara.com/*": {
+            "parent_win_hash":"random",
+            "unique_keys": "__localeData__,ToutiaoJSBridge,getCookie,acAnalytics,_acRequestUrl,TiktokAnalyticsObject,regeneratorRuntime,2,0,TreemapSquared,gaData,closure_lm_758610,amplitude,ym,ga,default_gsi,Native2JSBridge,lintrk,apiEndpoint,webExperiment,hcaptcha,newrelic,experimentIntegration,google,_already_called_lintrk,fabric,hcaptchaOnLoad,IMask,webpackJsonppaparawebv4,gaGlobal,gaplugins,webpackChunk:NRBA-1.260.1.PROD,_acq,NREUM,onClickHandler,twq,rdt,SVG,ttq,_jelly_sdks,L,pdfjsLib,JSBridge,redditNormalizeEmail,grecaptcha,dataLayer,analyticsConnectorInstances,yaCounter49978744,fbq,__core-js_shared__,ORIBILI,1,onYouTubeIframeAPIReady,TiktokJelly,_F_toggles,Apex,google_tag_manager,sessionReplay,_linkedin_data_partner_ids,google_tag_data,GoogleAnalyticsObject,twttr,3,_fbq_gtm_ids,Ya,experimentInstances,_fbq,ac,Experiment,cdnEndpoint",
+            "unique_keys2":"_linkedin_data_partner_ids,yaCounter49978744,webpackJsonppaparawebv4,dataLayer,ga,fabric,NREUM,ToutiaoJSBridge,webpackChunk:NRBA-1.260.1.PROD,ORIBILI,0,ttq,_already_called_lintrk,getCookie,L,_F_toggles,redditNormalizeEmail,TiktokJelly,gaplugins,__core-js_shared__,closure_lm_758610,cdnEndpoint,Apex,fbq,SVG,3,Experiment,hcaptcha,JSBridge,ym,ac,gaGlobal,rdt,twq,google_tag_data,__localeData__,onYouTubeIframeAPIReady,pdfjsLib,grecaptcha,2,GoogleAnalyticsObject,Ya,_acq,amplitude,webExperiment,TreemapSquared,IMask,google_tag_manager,onClickHandler,apiEndpoint,1,hcaptchaOnLoad,gaData,TiktokAnalyticsObject,_jelly_sdks,Native2JSBridge,experimentInstances,_fbq_gtm_ids,default_gsi,newrelic,acAnalytics,analyticsConnectorInstances,lintrk,regeneratorRuntime,google,twttr,_acRequestUrl,sessionReplay,_fbq,experimentIntegration",
+            "pel": "<div></div>",
+            "theme": 1796889847,
+            "invisible": true,
+            "exec": "api",
+            "common_keys_hash": 2915477231,
+            "common_keys_tail":  "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        }
+    },
+    "f06e6c50-85a8-45c8-87d0-21a2b65856fe": {
+        "https://www.ghostlifestyle.com/*": {
+            "parent_win_hash":"random",
+            "unique_keys": "5,_wt1Q,convert_temp,rbrWaitForElement,GCP,litElementVersions,addScriptsToHead,webpackChunk_klaviyo_onsite_modules,regeneratorRuntime,convertData,a0_0x2217,PandectesCore,_typeof,poll,reactiveElementVersions,detectBundleDiscounts,2,RevenueAddon,_visit,0,7,intlTelInputGlobals,uetq,_sentryDebugIds,klaviyoReviewsProductDesignMode,PandectesBlocker,Tapcart,secure,PandectesRules,ga,__SENTRY__,renderReferralModal,attr,variantStrings,_hmt,GooglebQhCsO,ShopifyPay,showPreferences,webpackChunk_gorgias_chat_client,klaviyo,_toPrimitive,renderHelpModal,gtag,rbrCartHandler,rbrOriginalTotalPrice,hcaptcha,ConvertRootLoader,rbrProductService,Pandectes,GorgiasBridge,cartStrings,gtmConsentmoCmp,_learnq,__buffer,_objectSpread,form_url,Shopify,gaGlobal,logFailedKlaviyoJsLoad,REED,Swiper,__CVT_BUNDLE_LOCKER,_conv_q,REED_$,rbrHideScripts,a0_0x3e80,_czc,klKeyCollision,ShopifyPaypalV4VisibilityTracking,core,webpackChunkvite_template_solid,$,_gaq,shuffle,filterCSS,__fb_i,gorgiasChatConfiguration,_global,_toPropertyKey,SENTRY_RELEASE,meta,_kmq,setLocationCookie,_sentryDebugIdIdentifier,_klOnsite,trekkie,trapFocusInDialog,portableWalletsHideBuyerConsent,_paq,hj,loyaltyApi,GorgiasChat,REVENUE_ADDON_ID,FB,_defineProperty,discountCardRoot,FastBundleConf,GIST,dataLayer,matched,showPopupWithUUID,gorgiasChat,4,Grin,fbq,__core-js_shared__,PandectesGeolocation,postscript,RBR_CURRENCY_MAP,filterXSS,1,ownKeys,Postscript,KLAVIYO_JS_REGEX,fbAsyncInit,fetchFilteredResults,onYouTubeIframeAPIReady,gorgiasChatPendingEvents,uuidv4,ShopifyAnalytics,fetchLocation,emosGlobalProperties,isenseGDPR,6,routes,__esappsPlatformBoot1017028967,convert,PandectesSettings,__st,google_tag_manager,jQuery,loglyjson,setParentLocation,__klKey,google_tag_data,isConsentmoCMPRegistered,esapps,3,consentmoBarLoaded,ConvertEventTracking,litHtmlVersions,rbrShowFunnel,_fbq,portableWalletsShowBuyerConsent,webpackChunk",
+            "unique_keys2":"loyaltyApi,trekkie,PandectesSettings,7,_toPrimitive,_toPropertyKey,dataLayer,filterCSS,form_url,a0_0x2217,RBR_CURRENCY_MAP,a0_0x3e80,Postscript,portableWalletsShowBuyerConsent,_sentryDebugIdIdentifier,ga,6,ShopifyAnalytics,renderHelpModal,poll,5,KLAVIYO_JS_REGEX,_czc,__klKey,FastBundleConf,GooglebQhCsO,RevenueAddon,consentmoBarLoaded,0,fetchLocation,Grin,_kmq,REED,rbrWaitForElement,__core-js_shared__,Shopify,webpackChunkvite_template_solid,Tapcart,litElementVersions,fbq,3,setParentLocation,PandectesBlocker,gorgiasChat,hcaptcha,FB,reactiveElementVersions,gaGlobal,REVENUE_ADDON_ID,google_tag_data,PandectesGeolocation,ConvertEventTracking,rbrOriginalTotalPrice,webpackChunk_gorgias_chat_client,4,intlTelInputGlobals,onYouTubeIframeAPIReady,postscript,logFailedKlaviyoJsLoad,__esappsPlatformBoot1017028967,__st,_sentryDebugIds,2,convertData,filterXSS,GCP,fbAsyncInit,GorgiasChat,cartStrings,klaviyoReviewsProductDesignMode,REED_$,shuffle,_global,_defineProperty,trapFocusInDialog,variantStrings,_objectSpread,showPreferences,SENTRY_RELEASE,fetchFilteredResults,uuidv4,klKeyCollision,rbrShowFunnel,_gaq,google_tag_manager,isenseGDPR,rbrProductService,attr,gorgiasChatPendingEvents,emosGlobalProperties,discountCardRoot,1,gtmConsentmoCmp,ShopifyPaypalV4VisibilityTracking,_hmt,_klOnsite,gtag,renderReferralModal,PandectesRules,loglyjson,__fb_i,convert_temp,routes,_typeof,litHtmlVersions,__CVT_BUNDLE_LOCKER,_visit,rbrCartHandler,secure,$,_wt1Q,klaviyo,_conv_q,webpackChunk,convert,__buffer,GorgiasBridge,_paq,hj,_learnq,addScriptsToHead,rbrHideScripts,showPopupWithUUID,webpackChunk_klaviyo_onsite_modules,isConsentmoCMPRegistered,detectBundleDiscounts,ShopifyPay,Pandectes,ConvertRootLoader,regeneratorRuntime,jQuery,GIST,esapps,meta,uetq,portableWalletsHideBuyerConsent,PandectesCore,matched,_fbq,gorgiasChatConfiguration,setLocationCookie,__SENTRY__,Swiper,core,ownKeys",
+            "pel": "<div class=\"h-captcha\" data-sitekey=\"f06e6c50-85a8-45c8-87d0-21a2b65856fe\" data-size=\"invisible\"></div>",
+            "theme": 1796889847,
+            "invisible": true,
+            "exec": "api",
+            "common_keys_hash": 2915477231,
+            "common_keys_tail":  "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        }
+    },
+    "6660d4df-1884-4ac6-a933-e5f3bd460946": {
+        "https://www.yelp.fr/*": {
+            "parent_win_hash":"4461407674970356819",
+            "unique_keys": "4,dataLayer,__core-js_shared__,Optanon,OnetrustActiveGroups,importShim,dataDomeOptions,yelp_react_polyglot,1,ygaPageStartTime,ySitRepParams,initRecaptchaProvider,ddjskey,initAppleSdkHappened,hcaptcha,0,process,dataDomeProcessed,closure_lm_815733,OneTrustStub,___grecaptcha_cfg,grecaptcha,initHCaptchaHappened,yPerfTimings,Bugsnag,OptanonActiveGroups,initRecaptchaHappened,ga,OneTrust,yelp,recaptcha,userAuthModalTermsAcknowledged,addCookieManagementScript,_react_streaming,5,ddShouldSkipFingerPrintReq,otStubData,2,3,__google_recaptcha_client,AppleID,hCaptchaReady,__recaptcha_api,__LOADABLE_LOADED_CHUNKS__",
+            "unique_keys2":"4,dataLayer,__core-js_shared__,Optanon,OnetrustActiveGroups,importShim,dataDomeOptions,yelp_react_polyglot,1,closure_lm_76604,ygaPageStartTime,ySitRepParams,initRecaptchaProvider,ddjskey,initAppleSdkHappened,hcaptcha,0,process,dataDomeProcessed,OneTrustStub,___grecaptcha_cfg,grecaptcha,initHCaptchaHappened,yPerfTimings,Bugsnag,OptanonActiveGroups,initRecaptchaHappened,ga,OneTrust,yelp,recaptcha,userAuthModalTermsAcknowledged,addCookieManagementScript,_react_streaming,5,ddShouldSkipFingerPrintReq,otStubData,2,3,__google_recaptcha_client,AppleID,hCaptchaReady,__recaptcha_api,__LOADABLE_LOADED_CHUNKS__",
+            "pel": "<div></div>",
+            "theme": 1796889847,
+            "invisible": true,
+            "exec": "api",
+            "common_keys_hash": 2915477231,
+            "common_keys_tail":  "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        },
+        "https://www.yelp.com/*": {
+            "parent_win_hash":"4461407674970356819",
+            "unique_keys": "4,dataLayer,__core-js_shared__,Optanon,OnetrustActiveGroups,importShim,dataDomeOptions,yelp_react_polyglot,1,ygaPageStartTime,ySitRepParams,initRecaptchaProvider,ddjskey,initAppleSdkHappened,hcaptcha,0,process,dataDomeProcessed,closure_lm_815733,OneTrustStub,___grecaptcha_cfg,grecaptcha,initHCaptchaHappened,yPerfTimings,Bugsnag,OptanonActiveGroups,initRecaptchaHappened,ga,OneTrust,yelp,recaptcha,userAuthModalTermsAcknowledged,addCookieManagementScript,_react_streaming,5,ddShouldSkipFingerPrintReq,otStubData,2,3,__google_recaptcha_client,AppleID,hCaptchaReady,__recaptcha_api,__LOADABLE_LOADED_CHUNKS__",
+            "unique_keys2":"4,dataLayer,__core-js_shared__,Optanon,OnetrustActiveGroups,importShim,dataDomeOptions,yelp_react_polyglot,1,closure_lm_76604,ygaPageStartTime,ySitRepParams,initRecaptchaProvider,ddjskey,initAppleSdkHappened,hcaptcha,0,process,dataDomeProcessed,OneTrustStub,___grecaptcha_cfg,grecaptcha,initHCaptchaHappened,yPerfTimings,Bugsnag,OptanonActiveGroups,initRecaptchaHappened,ga,OneTrust,yelp,recaptcha,userAuthModalTermsAcknowledged,addCookieManagementScript,_react_streaming,5,ddShouldSkipFingerPrintReq,otStubData,2,3,__google_recaptcha_client,AppleID,hCaptchaReady,__recaptcha_api,__LOADABLE_LOADED_CHUNKS__",
+            "pel": "<div></div>",
+            "theme": 1796889847,
+            "invisible": true,
+            "exec": "api",
+            "common_keys_hash": 2915477231,
+            "common_keys_tail":  "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        },
+        "https://www.yelp*": {
+            "parent_win_hash":"4461407674970356819",
+            "unique_keys": "4,dataLayer,__core-js_shared__,Optanon,OnetrustActiveGroups,importShim,dataDomeOptions,yelp_react_polyglot,1,ygaPageStartTime,ySitRepParams,initRecaptchaProvider,ddjskey,initAppleSdkHappened,hcaptcha,0,process,dataDomeProcessed,closure_lm_815733,OneTrustStub,___grecaptcha_cfg,grecaptcha,initHCaptchaHappened,yPerfTimings,Bugsnag,OptanonActiveGroups,initRecaptchaHappened,ga,OneTrust,yelp,recaptcha,userAuthModalTermsAcknowledged,addCookieManagementScript,_react_streaming,5,ddShouldSkipFingerPrintReq,otStubData,2,3,__google_recaptcha_client,AppleID,hCaptchaReady,__recaptcha_api,__LOADABLE_LOADED_CHUNKS__",
+            "unique_keys2":"4,dataLayer,__core-js_shared__,Optanon,OnetrustActiveGroups,importShim,dataDomeOptions,yelp_react_polyglot,1,closure_lm_76604,ygaPageStartTime,ySitRepParams,initRecaptchaProvider,ddjskey,initAppleSdkHappened,hcaptcha,0,process,dataDomeProcessed,OneTrustStub,___grecaptcha_cfg,grecaptcha,initHCaptchaHappened,yPerfTimings,Bugsnag,OptanonActiveGroups,initRecaptchaHappened,ga,OneTrust,yelp,recaptcha,userAuthModalTermsAcknowledged,addCookieManagementScript,_react_streaming,5,ddShouldSkipFingerPrintReq,otStubData,2,3,__google_recaptcha_client,AppleID,hCaptchaReady,__recaptcha_api,__LOADABLE_LOADED_CHUNKS__",
+            "pel": "<div></div>",
+            "theme": 1796889847,
+            "invisible": true,
+            "exec": "api",
+            "common_keys_hash": 2915477231,
+            "common_keys_tail":  "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        }
+    },
+    "3ac4dbce-c141-45f7-bfff-ea3c23dc5b42": {
+        "https://www.yelp.fr/*": {
+            "parent_win_hash":"4461407674970356819",
+            "unique_keys": "4,dataLayer,__core-js_shared__,Optanon,OnetrustActiveGroups,importShim,dataDomeOptions,yelp_react_polyglot,1,ygaPageStartTime,ySitRepParams,initRecaptchaProvider,ddjskey,initAppleSdkHappened,hcaptcha,0,process,dataDomeProcessed,closure_lm_815733,OneTrustStub,___grecaptcha_cfg,grecaptcha,initHCaptchaHappened,yPerfTimings,Bugsnag,OptanonActiveGroups,initRecaptchaHappened,ga,OneTrust,yelp,recaptcha,userAuthModalTermsAcknowledged,addCookieManagementScript,_react_streaming,5,ddShouldSkipFingerPrintReq,otStubData,2,3,__google_recaptcha_client,AppleID,hCaptchaReady,__recaptcha_api,__LOADABLE_LOADED_CHUNKS__",
+            "unique_keys2":"4,dataLayer,__core-js_shared__,Optanon,OnetrustActiveGroups,importShim,dataDomeOptions,yelp_react_polyglot,1,closure_lm_76604,ygaPageStartTime,ySitRepParams,initRecaptchaProvider,ddjskey,initAppleSdkHappened,hcaptcha,0,process,dataDomeProcessed,OneTrustStub,___grecaptcha_cfg,grecaptcha,initHCaptchaHappened,yPerfTimings,Bugsnag,OptanonActiveGroups,initRecaptchaHappened,ga,OneTrust,yelp,recaptcha,userAuthModalTermsAcknowledged,addCookieManagementScript,_react_streaming,5,ddShouldSkipFingerPrintReq,otStubData,2,3,__google_recaptcha_client,AppleID,hCaptchaReady,__recaptcha_api,__LOADABLE_LOADED_CHUNKS__",
+            "pel": "<div id=\"recaptcha-widget\" style=\"display: none;\" data-component-bound=\"true\"></div>",
+            "theme": 1796889847,
+            "invisible": false,
+            "exec": "m",
+            "common_keys_hash": 2915477231,
+            "common_keys_tail":  "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        },
+        "https://www.yelp*": {
+            "parent_win_hash":"4461407674970356819",
+            "unique_keys": "4,dataLayer,__core-js_shared__,Optanon,OnetrustActiveGroups,importShim,dataDomeOptions,yelp_react_polyglot,1,ygaPageStartTime,ySitRepParams,initRecaptchaProvider,ddjskey,initAppleSdkHappened,hcaptcha,0,process,dataDomeProcessed,closure_lm_815733,OneTrustStub,___grecaptcha_cfg,grecaptcha,initHCaptchaHappened,yPerfTimings,Bugsnag,OptanonActiveGroups,initRecaptchaHappened,ga,OneTrust,yelp,recaptcha,userAuthModalTermsAcknowledged,addCookieManagementScript,_react_streaming,5,ddShouldSkipFingerPrintReq,otStubData,2,3,__google_recaptcha_client,AppleID,hCaptchaReady,__recaptcha_api,__LOADABLE_LOADED_CHUNKS__",
+            "unique_keys2":"dataDomeOptions,hCaptchaReady,AppleID,dataDomeProcessed,OptanonActiveGroups,initRecaptchaHappened,yelp_react_polyglot,ySitRepParams,__core-js_shared__,userAuthModalTermsAcknowledged,hcaptcha,2,importShim,3,5,__google_recaptcha_client,yPerfTimings,6,__LOADABLE_LOADED_CHUNKS__,4,1,OneTrustStub,otStubData,dataLayer,ddShouldSkipFingerPrintReq,_react_streaming,Optanon,recaptcha,initAppleSdkHappened,yelp,OnetrustActiveGroups,initHCaptchaHappened,process,ygaPageStartTime,__recaptcha_api,___grecaptcha_cfg,Bugsnag,initRecaptchaProvider,grecaptcha,closure_lm_226123,OneTrust,0,ddjskey,addCookieManagementScript,ga",
+            "pel": "<div id=\"recaptcha-widget\" style=\"display: none;\" data-component-bound=\"true\"></div>",
+            "theme": 1796889847,
+            "invisible": false,
+            "exec": "m",
+            "common_keys_hash": 2915477231,
+            "common_keys_tail":  "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        }
+    },
+    "91e4137f-95af-4bc9-97af-cdcedce21c8c": {
+        "https://www.epicgames.com/id/login/epic*": {
+            "parent_win_hash":"12205299689855445120",
+            "unique_keys": "k,a0_0xa549,hCaptchaReady,talon,regeneratorRuntime,_epicTrackingCookieDomainId,0,hCaptchaLoaded,_sentryDebugIds,__SENTRY__,__axiosInstanceCached,hcaptcha,IMask,_epicEnableCookieGuard,core,SENTRY_RELEASE,_sentryDebugIdIdentifier,AppInit,MotionHandoffIsComplete,clearImmediate,__axiosInstance,a0_0x37f7,_epicTrackingCountryCode,grecaptcha,_epicTracking,__core-js_shared__,__tracking_base,setImmediate,1,i,__store",
+            "unique_keys2":"__axiosInstanceCached,__axiosInstance,_sentryDebugIdIdentifier,k,a0_0x37f7,__store,0,_epicTracking,__core-js_shared__,talon,hcaptcha,_sentryDebugIds,grecaptcha,_epicEnableCookieGuard,SENTRY_RELEASE,IMask,hCaptchaReady,1,setImmediate,clearImmediate,_epicTrackingCountryCode,hCaptchaLoaded,__tracking_base,MotionHandoffIsComplete,_epicTrackingCookieDomainId,a0_0xa549,AppInit,regeneratorRuntime,i,__SENTRY__,core",
+            "pel": "<div id=\"h_captcha_checkbox_login_prod\"></div>",
+            "theme": 461159931,
+            "invisible": true,
+            "exec": "api",
+            "common_keys_hash": 1028655694,
+            "common_keys_tail":  "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,fetchLater,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,oncommand,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        },
+        "https://www.epicgames.com/id/login*": {
+            "parent_win_hash":"12205299689855445120",
+            "unique_keys": "k,a0_0xa549,hCaptchaReady,talon,regeneratorRuntime,_epicTrackingCookieDomainId,0,hCaptchaLoaded,_sentryDebugIds,__SENTRY__,__axiosInstanceCached,hcaptcha,IMask,_epicEnableCookieGuard,core,SENTRY_RELEASE,_sentryDebugIdIdentifier,AppInit,MotionHandoffIsComplete,clearImmediate,__axiosInstance,a0_0x37f7,_epicTrackingCountryCode,grecaptcha,_epicTracking,__core-js_shared__,__tracking_base,setImmediate,1,i,__store",
+            "unique_keys2":"__axiosInstanceCached,__axiosInstance,_sentryDebugIdIdentifier,k,a0_0x37f7,__store,0,_epicTracking,__core-js_shared__,talon,hcaptcha,_sentryDebugIds,grecaptcha,_epicEnableCookieGuard,SENTRY_RELEASE,IMask,hCaptchaReady,1,setImmediate,clearImmediate,_epicTrackingCountryCode,hCaptchaLoaded,__tracking_base,MotionHandoffIsComplete,_epicTrackingCookieDomainId,a0_0xa549,AppInit,regeneratorRuntime,i,__SENTRY__,core",
+            "pel": "<div id=\"h_captcha_checkbox_login_prod\"></div>",
+            "theme": 461159931,
+            "invisible": true,
+            "exec": "api",
+            "common_keys_hash": 2915477231,
+            "common_keys_tail":  "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,fetchLater,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,oncommand,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        }
+    },
+    "b364b1fd-e3d8-4d24-8c41-77a19604b00d": {
+        "https://www.epicgames.com/id/register/epic*": {
+            "parent_win_hash": "1161227756201710954",
+            "unique_keys": "hCaptchaLoaded,__axiosInstance,a0_0x4fd2,__core-js_shared__,regeneratorRuntime,__tracking_base,core,1,webpackChunkaccountportal_node_website,a0_0x38a5,__axiosInstanceCached,talon,__store,hcaptcha,0,i,k,clearImmediate,grecaptcha,IMask,recaptchaOptions,_epicTrackingCookieDomainId,_epicEnableCookieGuard,_sentryDebugIds,__SENTRY__,_epicTrackingCountryCode,setImmediate,AppInit,2,3,hCaptchaReady,_epicTracking",
+            "unique_keys2":"GLOBAL_ENV,0,__OVERLAY__,hcaptcha,__localeData__,IntlPolyfill,__timingFunction,grecaptcha,2,DiscordSentry,1,hcaptchaOnLoad,clearImmediate,setImmediate,DiscordErrors,__BILLING_STANDALONE__,__DISCORD_WINDOW_ID,webpackChunkdiscord_app,__SECRET_EMOTION__,regeneratorRuntime,platform,__SENTRY__",
+            "theme":461159931,
+            "pel": "<div id=\"h_captcha_checkbox_registration_prod\"></div>",
+            "invisible": true,
+            "exec": "api"
+        }
+    },
+    "5928de2d-2800-4c58-be91-060e5a6aa117": {
+        "https://www.epicgames.com/id/login*": {
+            "parent_win_hash": "17634439866585556890",
+            "unique_keys": "k,hCaptchaReady,talon,a0_0x1ea3,regeneratorRuntime,2,_epicTrackingCookieDomainId,0,hCaptchaLoaded,_sentryDebugIds,__SENTRY__,__axiosInstanceCached,a0_0x3a11,hcaptcha,IMask,_epicEnableCookieGuard,core,AppInit,clearImmediate,__axiosInstance,_epicTrackingCountryCode,grecaptcha,_epicTracking,__core-js_shared__,webpackChunkaccountportal_node_website,__tracking_base,setImmediate,1,recaptchaOptions,i,__store",
+            "unique_keys2": "__axiosInstanceCached,__axiosInstance,_sentryDebugIdIdentifier,k,__store,0,a0_0x38a5,_epicTracking,__core-js_shared__,talon,hcaptcha,recaptchaOptions,a0_0x4fd2,_sentryDebugIds,grecaptcha,2,_epicEnableCookieGuard,SENTRY_RELEASE,IMask,hCaptchaReady,1,setImmediate,clearImmediate,_epicTrackingCountryCode,hCaptchaLoaded,__tracking_base,MotionHandoffIsComplete,_epicTrackingCookieDomainId,AppInit,regeneratorRuntime,i,__SENTRY__,core",
+            "pel": "<div id=\"h_captcha_checkbox_email_exists_prod\"></div>",
+            "theme": 461159931,
+            "invisible": true,
+            "exec": "api"
+        }
+    },
+    "edc4ce89-8903-4906-80b1-7440ad9a69c8" : {
+        "https://www.habbo.fr/" :{
+            "parent_win_hash":"8049322893300650189",
+            "unique_keys": "angularCreditCards,0,hCaptchaOnloadCallback,swfobject,OneTrust,cssNotFound,angularClipboard,OneTrustStub,Optanon,default_gsi,dataLayer,2,_typeof,_,angularCacheModuleName,setImmediate,angular,__fb_i,closure_lm_627467,ga,__buffer,_recaptchaVersion,_recaptchaInvisible,_noReturnExperience,moment,_ethers,OptanonActiveGroups,otStubData,OtTrustedType,toastr,jQuery,ethers,partnerCodeInfo,geoLocation,clearImmediate,prerenderReady,janrain,google,1,fbAsyncInit,OptanonWrapper,hcaptcha,session,Fingerprint2,FB,systemData,mod,$,_F_toggles,screenfull,adyen,bowser,OnetrustActiveGroups,AppleID",
+            "unique_keys2": "cssNotFound,partnerCodeInfo,session,closure_lm_695984,_ethers,hcaptcha,default_gsi,prerenderReady,0,bowser,clearImmediate,dataLayer,Fingerprint2,_F_toggles,_recaptchaInvisible,ethers,screenfull,OnetrustActiveGroups,_recaptchaVersion,otStubData,OtTrustedType,angularCreditCards,angularCacheModuleName,1,mod,2,FB,ga,geoLocation,fbAsyncInit,AppleID,jQuery,_noReturnExperience,__buffer,OptanonActiveGroups,OptanonWrapper,OneTrust,toastr,angular,swfobject,OneTrustStub,google,adyen,setImmediate,hCaptchaOnloadCallback,__fb_i,moment,janrain,$,systemData,_,Optanon,_typeof,angularClipboard",
+            "pel": "<div habbo-h-captcha=\"\" data-on-render=\"setWidgetId(widgetId)\"></div>",
+            "theme": 461159931,
+            "invisible": true,
+            "exec": "api",
+            "common_keys_hash": 2915477231,
+            "common_keys_tail":  "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        }
+    },
+    "264d6f74-6d54-4621-ab76-619f2566081c": {
+        "https://www.epicgames.com/id/login/forgot-password*": {
+            "parent_win_hash": "17634439866585556890",
+            "unique_keys": "k,hCaptchaReady,talon,regeneratorRuntime,2,_epicTrackingCookieDomainId,0,hCaptchaLoaded,_sentryDebugIds,a0_0x4fd2,__SENTRY__,__axiosInstanceCached,hcaptcha,IMask,_epicEnableCookieGuard,core,SENTRY_RELEASE,_sentryDebugIdIdentifier,AppInit,MotionHandoffIsComplete,clearImmediate,__axiosInstance,_epicTrackingCountryCode,grecaptcha,_epicTracking,__core-js_shared__,__tracking_base,setImmediate,1,a0_0x38a5,recaptchaOptions,i,__store",
+            "unique_keys2":"__axiosInstanceCached,__axiosInstance,_sentryDebugIdIdentifier,k,__store,0,a0_0x38a5,_epicTracking,__core-js_shared__,talon,hcaptcha,recaptchaOptions,a0_0x4fd2,_sentryDebugIds,grecaptcha,2,_epicEnableCookieGuard,SENTRY_RELEASE,IMask,hCaptchaReady,1,setImmediate,clearImmediate,_epicTrackingCountryCode,hCaptchaLoaded,__tracking_base,MotionHandoffIsComplete,_epicTrackingCookieDomainId,AppInit,regeneratorRuntime,i,__SENTRY__,core",
+            "pel": "<div id=\"h_captcha_checkbox_password_reset_prod\"></div>",
+            "theme": 461159931,
+            "invisible": true,
+            "exec": "api",
+            "common_keys_hash": 2915477231,
+            "common_keys_tail":  "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,caches,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,launchQueue,sharedStorage,documentPictureInPicture,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,onpageswap,onpagereveal,credentialless,fence,speechSynthesis,onscrollend,onscrollsnapchange,onscrollsnapchanging,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+        }
+    }
+}

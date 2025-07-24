@@ -1,0 +1,21 @@
+{
+  "name": "dch-hook-js",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@babel/generator": "^7.27.1",
+    "@babel/parser": "^7.27.1",
+    "@babel/traverse": "^7.27.1",
+    "axios": "^1.9.0",
+    "canvas": "^3.1.0",
+    "express": "^5.1.0",
+    "jsdom": "^26.1.0"
+  }
+}
