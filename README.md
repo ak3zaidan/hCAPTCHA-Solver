@@ -15,3 +15,5 @@
 The included code will give you almost everything needed to create a production solver, the current solve.py file included is an old version and only included for flow context.
 
 Check out this [X article](https://x.com/Ahm3dZaidan/status/2015347609242857522?s=20) for an in-depth explanation for solving this antibot
+
+Thanks to [@krakes-dev](https://github.com/krakes-dev) for his Deob
